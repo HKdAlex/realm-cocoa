@@ -275,7 +275,7 @@ if buildFromSource {
 }
 
 let platforms: [SupportedPlatform] = [
-    .macOS(.v10_10),
+    .macOS(.v10_15),
     .iOS(.v13),
     .tvOS(.v9),
     .watchOS(.v2)
